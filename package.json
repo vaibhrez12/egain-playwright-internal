@@ -1,6 +1,5 @@
 {
   "name": "egain-playwright-internal",
-  "private": true,
   "version": "1.0.0",
   "description": "A high-level API to automate web browsers",
   "repository": {
