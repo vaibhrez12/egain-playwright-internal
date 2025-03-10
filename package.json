@@ -5,7 +5,7 @@
   "description": "A high-level API to automate web browsers",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eGainDev/eg-playwright-recorder.git"
+    "url": "git+https://github.com/vaibhrez12/egain-playwright-internal.git"
   },
   "homepage": "https://playwright.dev",
   "engines": {
